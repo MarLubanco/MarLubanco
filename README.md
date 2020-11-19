@@ -2,16 +2,15 @@
 
 <h2> Hi, I'm Marcelo Thomé!</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Computer Science at <a href="http://www.unb.br">University Unifil</a>
+<p><em>Computer Science at <a href="https://www.unifil.br/">University Unifil</a>
 </br>Senior Software Engineer at <a href="http://www.platosedu.com.br/">Platos</a>
   
 </em></p>
 
-[![Linkedin: MarceloThome](https://img.shields.io/badge/-marcelo-thome-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-thom%C3%A9-2a4ab314b/)](https://www.linkedin.com/in/marcelo-thom%C3%A9-2a4ab314b/)
+[![Linkedin: marcelo-thome](https://img.shields.io/badge/-thome-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
 
 
-
-### <img src="https://giphy.com/gifs/nickjonas-nick-jonas-9rhNJScGSlneHpLtnz" width="70"> A little more about me...  
+### <img src="https://media.giphy.com/media/9rhNJScGSlneHpLtnz/giphy.gif" width="70"> A little more about me...  
 
 ```javascript
 const thome = {
