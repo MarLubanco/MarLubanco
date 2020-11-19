@@ -10,7 +10,7 @@
 [![Linkedin: marcelo-thome](https://img.shields.io/badge/-thome-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-thom%C3%A9-2a4ab314b/)](https://www.linkedin.com/in/marcelo-thom%C3%A9-2a4ab314b/)
 
 
-<img src="https://media.giphy.com/media/iOdhk1BSNJ7PsQRUN3/giphy.giff" width="200">
+<img src="https://media.giphy.com/media/iOdhk1BSNJ7PsQRUN3/giphy.gif" width="200">
 
 ## A little more about me...  
 
