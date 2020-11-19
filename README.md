@@ -18,11 +18,11 @@
 const thome = {
   age: 21,
   universityGraduate: 'Computer Science',
-  code: [Java 14, Python 3, Kotlin, Javascript, Typescript, HTML, CSS],
+  code: ['Java 14', 'Python 3', 'Kotlin', 'Javascript', 'Typescript', 'HTML', 'CSS'],
   frameworks: ['Spring Boot', 'Micronaut', 'Django', 'React Native', 'AngularJS', 'VueJS', 'ReactJS', 'Redux', 'Node'],
   databases: ['MySQL', 'Postgres', 'Oracle', 'MongoDB'],
   devOps: ['Docker', 'Kubernetes', 'AWS'],
-  versioning Tool: 'GIT',
+  versioningTool: 'GIT',
   architecture: ["microservices", "event-driven", "design system pattern"],
   awards: [
             {
