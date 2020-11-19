@@ -7,10 +7,11 @@
   
 </em></p>
 
-[![Linkedin: marcelo-thome](https://img.shields.io/badge/-thome-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
+[![Linkedin: marcelo-thome](https://img.shields.io/badge/-thome-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-thom%C3%A9-2a4ab314b/)](https://www.linkedin.com/in/marcelo-thom%C3%A9-2a4ab314b/)
 
 
-### <img src="https://media.giphy.com/media/9rhNJScGSlneHpLtnz/giphy.gif" width="70"> A little more about me...  
+<img src="https://media.giphy.com/media/9rhNJScGSlneHpLtnz/giphy.gif" width="300">
+### A little more about me...  
 
 ```javascript
 const thome = {
