@@ -11,7 +11,8 @@
 
 
 <img src="https://media.giphy.com/media/9rhNJScGSlneHpLtnz/giphy.gif" width="300">
-### A little more about me...  
+
+## A little more about me...  
 
 ```javascript
 const thome = {
