@@ -3,7 +3,7 @@
 <h2> Hi, I'm Marcelo Thomé!</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Computer Science at <a href="https://www.unifil.br/">University Unifil</a>
-</br>Senior Software Engineer at <a href="http://www.platosedu.com.br/">Platos</a>
+</br>Specialist Software Engineer at <a href="http://www.platosedu.com.br/">Platos</a>
   
 </em></p>
 
